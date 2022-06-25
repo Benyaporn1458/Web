@@ -291,7 +291,7 @@ a:focus {
   justify-content: center;
   align-items: center;
   width: 250px;
-  height: 270px;
+  height: 330px;
   border-radius: 90px;
   background-color: #3d4d62b8;
 
@@ -303,7 +303,7 @@ a:focus {
 }
 
 .practice_img-box img {
-  width: 120px;
+  width: 200px;
 }
 
 .practice_detail p {
